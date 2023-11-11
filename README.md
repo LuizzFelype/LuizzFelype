@@ -1,4 +1,4 @@
-# :man_tecnologist: Luiz Felype 
+# :man_technologist: Luiz Felype 
 
     Olá meu nome é Luiz Felype, e estou começando na área da programação.
     /
